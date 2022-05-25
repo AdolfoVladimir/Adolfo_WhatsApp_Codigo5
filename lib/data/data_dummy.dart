@@ -113,5 +113,6 @@ List<StatusModel> statusList = [
         "https://images.pexels.com/photos/4922971/pexels-photo-4922971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     username: "Juan Carlos Lopez",
     time: "Ayer 12:40 p. m.",
+
   ),
 ];
